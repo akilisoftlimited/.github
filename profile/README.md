@@ -1,12 +1,11 @@
-## Hi there 👋
+<img width="1983" height="793" alt="AkiliSoft" src="https://github.com/user-attachments/assets/983fdea8-815f-4b21-8825-a7530c1a4be5" />
 
-<!--
+Smart Software. Real Impact
 
-**Here are some ideas to get you started:**
+AkiliSoft is a software company building practical technology for
+businesses, institutions, and organizations.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We build software that helps organizations operate better, automate
+processes, and scale with confidence.
+
+*Tanzania 🇹🇿*
