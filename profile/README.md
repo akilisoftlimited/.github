@@ -1,4 +1,5 @@
-<img width="1983" height="793" alt="AkiliSoft" src="https://github.com/user-attachments/assets/983fdea8-815f-4b21-8825-a7530c1a4be5" />
+<img width="1600" height="640" alt="Banner UI from WhatsApp" src="https://github.com/user-attachments/assets/2a15669f-b61a-402a-b0d0-4d02e5619c1f" />
+
 
 Smart Software. Real Impact
 
